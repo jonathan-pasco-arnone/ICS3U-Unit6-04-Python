@@ -2,6 +2,7 @@
 
 # Created by: Jonathan Pasco-Arnone
 # Created on: January 2021
+# This program gets the average of the numbers in the two_d_array
 
 import random
 
